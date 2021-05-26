@@ -1,6 +1,6 @@
 {
-  "name": "vue-plyr",
-  "version": "7.0.0",
+  "name": "@daun/vue-plyr",
+  "version": "7.0.1",
   "description": "A vue component for the plyr video & audio player.",
   "license": "MIT",
   "author": {
@@ -8,7 +8,7 @@
     "email": "gabe@redxtech.ca",
     "url": "https://gabedunn.dev"
   },
-  "repository": "github:redxtech/vue-plyr",
+  "repository": "github:daun/vue-plyr",
   "scripts": {
     "prebuild": "rm -rf dist/",
     "build": "NODE_ENV=production rollup --c rollup.config.js",
